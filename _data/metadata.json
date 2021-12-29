@@ -1,0 +1,21 @@
+{
+  "title": "Marco's blog",
+  "url": "https://marcoalmeida.dev.br",
+  "language": "en",
+  "description": "a developer's blog",
+  "feed": {
+    "subtitle": "a developer's blog",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://marcoalmeida.dev.br"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://marcoalmeida.dev.br/feed/feed.json"
+  },
+  "author": {
+    "name": "Marco Almeida",
+    "email": "marcosilva.poa.br@gmail.com",
+    "url": "https://marcoalmeia.dev.br/about/"
+  }
+}
